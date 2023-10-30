@@ -3,6 +3,7 @@
 
  <!---Пример кода-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=uchi+kuzbass)](https://git.io/typing-svg)
+![image](https://github.com/dima455689/glavnaia/assets/149286404/84f6d3a0-6580-4ac4-b51d-5276430fa81a)
 
 
 
